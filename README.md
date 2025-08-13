@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# 🎮 모크어의 GitHub에 오신 것을 환영합니다!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+안녕하세요! 👋  
+저는 **모크어(mokea)**라고 합니다.  
+**마인크래프트 플러그인 개발**과 **프로그래밍 교육/튜토리얼 영상**을 유튜브에서 제작하고 있는 크리에이터입니다.
 
-## Available Scripts
+이 GitHub는 제가 만든 마인크래프트 플러그인, 각종 실습용 코드, 실험적인 프로젝트 등을 저장하고 공유하는 공간입니다.  
+유튜브에서 다룬 예제들부터 실제 서버에서 사용 가능한 플러그인까지 다양하게 올라올 예정이에요!  
+여기서 제공되는 자료를 잘 활용하셔서 더 멋진 개발자가 되길 바랍니다 😊
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📌 이 저장소의 주제들
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🧩 **마인크래프트 플러그인** (Paper, Spigot, Velocity, BungeeCord 등)
+- 🧑‍💻 **자바(Java) 및 기타 언어 튜토리얼 코드**
+- 💡 **실험적인 게임 기능 또는 미니게임 구현**
+- 📦 **유틸성 코드 및 템플릿**
+- 🛠️ **유튜브 콘텐츠 연동 예제**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 📜 라이선스 및 사용 규칙
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+> 이 GitHub의 자료들은 누구나 열람하고 참고할 수 있지만, 다음의 규칙을 꼭 지켜주세요!
 
-### `npm run build`
+### 🔒 사용 제한
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- ❌ **코드 전체/부분을 그대로 재배포하는 행위는 금지**입니다. (공식 포크 포함)
+- ❌ 본인의 이름으로 수정하여 배포하는 것도 금지입니다.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### ✅ 허용되는 사용
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- ✅ **코드 참고**는 자유롭게 가능합니다.
+- ✅ 단, **짧은 코드**(`1~100줄`, `10파일 이하`)는 **개인적인 용도에 한해 자유롭게 수정 및 활용 가능**합니다.
+- ✅ 교육, 학습, 개인 서버 테스트 용도는 허용됩니다.
 
-### `npm run eject`
+📩 만약 코드 전체를 수정하고 싶거나, 다른 프로젝트에 활용하고 싶다면 **반드시 아래 연락처로 문의해주세요.**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🎁 유튜브 시청자 특별 혜택
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+유튜브 채널 **[모크어 YouTube](https://youtube.com/yourchannel)**를 통해 오신 분이라면?
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- 🎉 **해당 GitHub 코드의 개조 및 수정 가능!**
+- 👍 조건은 단 하나, **출처(Mokea GitHub / 유튜브) 명시 필수**
+- 📌 영상에서 사용된 코드는 영상 설명란에 링크가 함께 올라갑니다.
 
-## Learn More
+유튜브 댓글이나 디스코드로 사용 후기를 남겨주시면 영상에서 소개될 수도 있어요 😄
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🔗 연락 및 커뮤니티
 
-### Code Splitting
+궁금한 점이나 문의 사항이 있다면 언제든지 연락 주세요!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- 📧 이메일: **easycoding2967@gmail.com**
+- 💬 디스코드: **사용자명: dduddy_**
+- 📺 유튜브: [모크어 채널 바로가기](https://www.youtube.com/@%EB%AA%A8%ED%81%AC%EC%96%B4)
+- 🛠️ 커뮤니티 채널(예정): 디스코드 서버 오픈 준비 중입니다!
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## ⭐ 추천 저장소
 
-### Making a Progressive Web App
+| 이름 | 설명 | 링크 |
+|------|------|------|
+아직 공개된 저장소가 없습니다!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## 🙏 마지막으로…
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+이 GitHub는 유튜브 활동의 연장선으로, 개발자 분들과의 소통을 위해 공개되었습니다.  
+제가 만든 코드가 여러분에게 **영감과 도움이** 되길 진심으로 바랍니다!
 
-### Deployment
+**Star ⭐️, Fork 🍴, Issue 💬는 언제든 환영입니다!**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+감사합니다 💙  
+— 모크어 드림
